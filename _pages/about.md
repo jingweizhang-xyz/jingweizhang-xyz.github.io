@@ -25,7 +25,7 @@ These research projects endow me with solid knowledge and rich experience in gen
 
 I believe in the power of collaborative research and have been fortunate to work closely with talented peers and faculty. I maintain a long-standing and productive collaboration with [Saarthak Kapse](https://saarthak-kapse.github.io) and [Xi Han](https://axihixa.github.io), with whom I have co-authored several key works in multi-instance learning and efficient architectures. I also deeply value the interdisciplinary insights provided by our clinical collaborators, including pathologists Dr. Rajarsi Gupta and Dr. Vincent Quoc-Huy Trinh.
 
-Beyond the guidance of my Ph.D. advisor, my academic trajectory has been significantly shaped by the mentorship and external support of several collaborating faculty members. I am deeply grateful for the intellectual contributions and guidance provided by [Prof. Maria Vakalopoulou](https://mariavak.github.io/), [Prof. Mahdi S. Hosseini](https://atlasanalyticslab.github.io/), [Prof. Prateek Prasanna](https://you.stonybrook.edu/imaginelab/) and [Prof. Hong Qin](https://www3.cs.stonybrook.edu/~qin/).
+Beyond the guidance of my Ph.D. advisor, my academic trajectory has been significantly shaped by the mentorship and external support of several collaborating faculty members. I am deeply grateful for the intellectual contributions and guidance provided by [Prof. Maria Vakalopoulou](https://mariavak.github.io/), [Prof. Mahdi S. Hosseini](https://atlasanalyticslab.github.io/), [Prof. Prateek Prasanna](https://prateekprasanna.com/) and [Prof. Hong Qin](https://www3.cs.stonybrook.edu/~qin/).
 
 Personal
 ======
