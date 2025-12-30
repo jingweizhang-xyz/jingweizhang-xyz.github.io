@@ -45,6 +45,10 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.figure %}
+        <img src="{{ page.figure }}" alt="{{ page.title }}" />
+        {% endif %}
+        
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl %}
