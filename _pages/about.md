@@ -30,3 +30,6 @@ Beyond the guidance of my Ph.D. advisor, my academic trajectory has been signifi
 Personal
 ======
 Outside of research, I am an active table tennis player and fitness enthusiast who loves exploring National Parks and hiking trails. I also enjoy diving into the creative world of ACG (Anime, Comic, and Games) as a fan of "2D culture."
+
+
+<img src="/files/images/acadia.jpg" width="100%" />
